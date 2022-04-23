@@ -2,4 +2,4 @@
 
 ```Simple test for erosion and dilatation ```
 
-![alt text](https://zupimages.net/viewer.php?id=22/16/9gy2.png)
+![](https://zupimages.net/up/22/16/9gy2.png)
